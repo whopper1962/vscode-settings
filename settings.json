@@ -1,0 +1,86 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+    "workbench.preferredHighContrastColorTheme": "Default Light+",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.autoClosingBrackets": "always",
+    "[json]": {
+
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "workbench.colorTheme": "Dark Lemon Material",
+    "workbench.colorCustomizations": {
+		"merge.currentHeaderBackground": "#a600ff",
+		"merge.currentContentBackground": "#2d361f",
+		"merge.incomingHeaderBackground": "#a600ff",
+		"merge.incomingContentBackground": "#462929"
+    },
+    "editor.tokenColorCustomizations": {
+        "comments": "#75533e"
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.startupEditor": "none",
+    "editor.tabSize": 2,
+    "terminal.integrated.automationShell.osx": "",
+    "terminal.integrated.profiles.windows": {
+
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        }
+    },
+    "yaml.customTags": [
+        "!Ref",
+        "!Sub scalar",
+        "!Sub sequence",
+        "!Join sequence",
+        "!FindInMap sequence",
+        "!GetAtt scalar",
+        "!GetAtt sequence",
+        "!Base64 mapping",
+        "!GetAZs",
+        "!Select scalar",
+        "!Select sequence",
+        "!Split sequence",
+        "!ImportValue",
+        "!Condition",
+        "!Equals sequence",
+        "!And",
+        "!If",
+        "!Not",
+        "!Or",
+        "!Base64"
+    ],
+    "editor.autoClosingQuotes": "always",
+    "workbench.editor.closeOnFileDelete": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": false,
+    "editor.formatOnType": false,
+    "tabnine.experimentalAutoImports": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "bracketPairColorizer.depreciation-notice": false,
+    "workbench.editorAssociations": {
+        "*.scpt": "default"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.zoomLevel": -3
+}
