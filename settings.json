@@ -82,5 +82,11 @@
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "window.zoomLevel": -3
+    "editor.renderWhitespace": "none",
+    "diffEditor.wordWrap": "off",
+    "debug.console.wordWrap": false,
+    "[nginx]": {
+        "editor.defaultFormatter": "raynigon.nginx-formatter"
+    },
+    "window.zoomLevel": -4
 }
