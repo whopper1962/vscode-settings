@@ -88,5 +88,5 @@
     "[nginx]": {
         "editor.defaultFormatter": "raynigon.nginx-formatter"
     },
-    "window.zoomLevel": -4
+    "window.zoomLevel": -2
 }
