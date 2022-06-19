@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DATA=`cat extensions.txt`
+DATA=`cat extensions_to_uninstall.txt`
 
 while read line
 do
