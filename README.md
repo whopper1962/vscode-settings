@@ -1,6 +1,5 @@
 # VSCodeのプラグインと設定を管理/一括インストールできるようにしたリポジトリです
 
-
 ## codeコマンドを有効化
 - VS Codeを開いている状態で、 Cmd + Shift + p
 - `shell`と入力して、`Shell Command: install 'code' command in PATH`を選択
@@ -20,7 +19,7 @@ bash list-extensions.sh
 zsh list-extensions.sh
 ~~~
 
-## `extensions.txt`に記載されているプラグイン一覧を一括インストール
+## プラグイン一覧を一括インストール
 - bash
 ~~~bash
 bash install-extensions.sh
@@ -30,7 +29,7 @@ bash install-extensions.sh
 zsh install-extensions.sh
 ~~~
 
-##  `extensions.txt`に記載されているプラグイン一覧を一括アンインストール
+##  プラグイン一覧を一括アンインストール
 - bash
 ~~~bash
 bash uninstall-extensions.sh
