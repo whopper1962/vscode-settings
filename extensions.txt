@@ -58,4 +58,4 @@ xdebug.php-debug@1.27.0
 xdebug.php-pack@1.0.3
 yzhang.markdown-all-in-one@3.4.3
 Zignd.html-css-class-completion@1.20.0
-zobo.php-intellisense@1.0.8
+zobo.php-intellisense@1.0.9
