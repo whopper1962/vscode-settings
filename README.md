@@ -38,3 +38,8 @@ bash uninstall-extensions.sh
 ~~~bash
 zsh uninstall-extensions.sh
 ~~~
+
+## settings.jsonを開き方
+- VS Codeを開いている状態で、 Cmd + Shift + p
+- `settings`と入力して、`Preferences: Open Settings(JSON)`を選択
+- `settings.json`が開く
