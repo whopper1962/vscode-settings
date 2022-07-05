@@ -50,7 +50,6 @@ SamuelHinchliffe.phpdoc-generator-2022
 sdras.vue-vscode-extensionpack
 sdras.vue-vscode-snippets
 shufo.vscode-blade-formatter
-stef-k.laravel-goto-controller
 vismalietuva.vscode-angular-support
 wmaurer.vscode-jumpy
 xabikos.JavaScriptSnippets
